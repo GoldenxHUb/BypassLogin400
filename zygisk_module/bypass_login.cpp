@@ -5,6 +5,7 @@
 #include <android/log.h>
 #include <dlfcn.h>
 #include <Dobby/dobby.h>
+#include "xdl.h"
 
 #define LOG_TAG "BypassLogin400"
 #define LOGI(...) __android_log_print(ANDROID_LOG_INFO, LOG_TAG, __VA_ARGS__)
