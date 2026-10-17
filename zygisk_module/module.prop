@@ -1,0 +1,6 @@
+id=bypass_login_400
+name=Bypass Login 400
+version=1.0
+versionCode=1
+author=GoldenxHUb
+description=Hook CreateLoginReqInfoData to bypass Login Error 400 (FF + FF MAX)
